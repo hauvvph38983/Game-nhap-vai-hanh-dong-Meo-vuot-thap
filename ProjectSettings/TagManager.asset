@@ -41,3 +41,15 @@ TagManager:
   - name: Default
     uniqueID: 0
     locked: 0
+  - name: banner
+    uniqueID: 1817591521
+    locked: 0
+  - name: ground
+    uniqueID: 1768400315
+    locked: 0
+  - name: cay
+    uniqueID: 2975483941
+    locked: 0
+  - name: cay2
+    uniqueID: 4216657685
+    locked: 0
